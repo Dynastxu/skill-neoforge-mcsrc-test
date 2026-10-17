@@ -1,0 +1,3 @@
+[submodule ".agents/skills/skill-neoforge-minecraft-sources"]
+	path = .agents/skills/skill-neoforge-minecraft-sources
+	url = https://github.com/Dynastxu/skill-neoforge-minecraft-sources.git
